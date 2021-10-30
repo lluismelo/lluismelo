@@ -1,7 +1,7 @@
 ### Hi, i'm Luís 👋
-<a href="https://github.com/lluismelo"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lluismelo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
+<a href="https://github.com/lluismelo"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=lluismelo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
 
-</a> <a href="https://github.com/lluismelo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluismelo&layout=compact&theme=buefy&hide_border=true"/></a> |
+</a> <a href="https://github.com/lluismelo"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluismelo&layout=compact&theme=buefy&hide_border=true"/></a>
   
 <div style="display: inline_block"><br>
   <!-- <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
